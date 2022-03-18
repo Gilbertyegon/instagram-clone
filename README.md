@@ -25,6 +25,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
+ git clone https://github.com/Gilbertyegon/instagram-clone.git
  # 
 ```
 ##### Navigate into the folder and install requirements  
